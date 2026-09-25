@@ -8,6 +8,7 @@ import com.drew.metadata.Directory;
 import com.drew.metadata.Metadata;
 import com.drew.metadata.Tag;
 import com.forensiq.identity_scanning.varification.tempering.dto.MetadataAnalysisResult;
+
 @Component
 public class ImageMetadataAnalyzer {
     public MetadataAnalysisResult analyze(File imageFile){

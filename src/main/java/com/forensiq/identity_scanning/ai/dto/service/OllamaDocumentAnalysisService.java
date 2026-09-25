@@ -72,7 +72,7 @@ public class OllamaDocumentAnalysisService {
                 Return ONLY valid JSON.
                 Use exactly these fields:
                 {
-                  "documentType":"PASSPORT",
+                  "documentType":"",
                   "confidence":0,
                   "documentDetected":true,
                   "observations":[],
