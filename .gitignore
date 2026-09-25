@@ -32,4 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 identity-scanning/src/main/resources/application.properties
-/src/main/resources/application.properties
+src/main/resources/application.properties
